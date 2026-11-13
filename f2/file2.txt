@@ -1,2 +1,6 @@
 noidung moi
+<<<<<<< HEAD
 da thay doi noi dung tren may chua commit
+=======
+noi dung moi cap nhat tren github
+>>>>>>> origin/main
